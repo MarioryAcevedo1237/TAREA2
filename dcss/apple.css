@@ -1,13 +1,5 @@
  
-
-}
- p.Mitexto1 {
-  color: yellow;
-}
-p.Mitexto1 {
- font-size: 80px
-  }
-    span.Mitexto2 {
+    p.Mitexto2 {
   color: #808000;
 }
 p.Mitexto2 {
@@ -19,6 +11,10 @@ p.Mitexto2 {
 }
 p.Mitexto3 {
  font-size: 25px
+}
+ span.Mitexto3 {
+  border: red 3px dotted;
+}
   }
    p.Mitexto4 {
   color: blue;
@@ -28,6 +24,9 @@ p.Mitexto4 {
 }
 p.Mitexto5 {
  font-size: 20px 
+ }
+ span.Mitexto5 {
+  border: black 5px dashed;
 }
 p.Mitexto5 {
  color: #008080;
@@ -39,7 +38,7 @@ p.Mitexto6 {
  font-size:25px
  
  }
- #casa { 
+ #casa1 { 
  	font-size: 40px
   }
 
