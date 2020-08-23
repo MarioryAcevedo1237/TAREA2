@@ -1,4 +1,6 @@
- 
+ p {
+  font-style: oblique;
+}
     p.Mitexto2 {
   color: #808000;
 }
@@ -38,8 +40,11 @@ p.Mitexto6 {
  font-size:25px
  
  }
- #casa1 { 
- 	font-size: 40px
+ #textouno { 
+ 	font-size: 60px
+  }
+   #textouno { 
+ 	color: purple;
   }
 
  
