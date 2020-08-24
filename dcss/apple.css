@@ -1,3 +1,5 @@
+body { background-image: url("er.png") }
+
  p {
   font-style: oblique;
 }
@@ -46,6 +48,7 @@ p.Mitexto6 {
    #textouno { 
  	color: purple;
   }
+
 
  
 
