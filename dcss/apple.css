@@ -7,14 +7,14 @@ body { background-image: url("er.png") }
   color: #808000;
 }
 p.Mitexto2 {
- font-size: 30px
+ font-size: 20px
   }
     p.Mitexto3 {
   color: green;
    font-style: cursive;
 }
 p.Mitexto3 {
- font-size: 25px
+ font-size: 22px
 }
  span.Mitexto3 {
   border: red 3px dotted;
@@ -24,7 +24,7 @@ p.Mitexto3 {
   color: blue;
 }
 p.Mitexto4 {
- font-size: 25px
+ font-size: 22px
 }
 p.Mitexto5 {
  font-size: 20px 
@@ -39,11 +39,11 @@ p.Mitexto5 {
   color: #00ff00;
 }
 p.Mitexto6 {
- font-size:25px
+ font-size:20px
  
  }
  #textouno { 
- 	font-size: 45px
+ 	font-size: 20px
   }
    #textouno { 
  	color: purple;
