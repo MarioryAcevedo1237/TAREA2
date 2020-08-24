@@ -3,12 +3,27 @@ body { background-image: url("er.png") }
  p {
   font-style: oblique;
 }
-    p.Mitexto2 {
+#textouno { 
+ 	font-size: 20px
+  }
+   #textouno { 
+ 	color: purple;
+  }
+ 	 p.Mitexto1 {
   color: #808000;
+}
+p.Mitexto1 {
+ font-size:20px
+}
+    p.Mitexto2 {
+  color: #00ff00;
 }
 p.Mitexto2 {
  font-size: 20px
   }
+ span.Mitexto2 {
+  border: black 1px dotted;
+}
     p.Mitexto3 {
   color: green;
    font-style: cursive;
@@ -17,7 +32,7 @@ p.Mitexto3 {
  font-size: 22px
 }
  span.Mitexto3 {
-  border: red 3px dotted;
+  border: black 1px dotted;
 }
   }
    p.Mitexto4 {
@@ -30,24 +45,12 @@ p.Mitexto5 {
  font-size: 20px 
  }
  span.Mitexto5 {
-  border: black 5px dashed;
+  border: black 1px dashed;
 }
 p.Mitexto5 {
  color: #008080;
-}
- 	 p.Mitexto6 {
-  color: #00ff00;
-}
-p.Mitexto6 {
- font-size:20px
- 
  }
- #textouno { 
- 	font-size: 20px
-  }
-   #textouno { 
- 	color: purple;
-  }
+ 
 
 
  
